@@ -1,8 +1,8 @@
-- 👋 Hi there, I'm @dhruvkud13
+- 👋 Hi there, I'm @dhruvkud13!
 - 🌱 I'm currently pursuing my BTech degree in Information Technology
 - 😄 I love exploring and constantly learning new technologies
 - 🔭 I’m currently working as a software and web developer intern
-- 👯 I’m looking to collaborate on multiple cool open source projects
+- 👯 Looking to collaborate on multiple cool open source projects
 [![@dhruvkud13's Holopin board](https://holopin.me/dhruvkud13)](https://holopin.io/@dhruvkud13)
 
 <!--
