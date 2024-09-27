@@ -1,7 +1,7 @@
 <!-- - 👋 Hi there, I'm @dhruvkud13!
-- 🌱 I'm currently pursuing my BTech degree in Information Technology
+- 🌱 I'm currently pursuing my Masters in Computer Science at the University of Southern California
 - 😄 I love exploring and constantly learning new technologies
-- 🔭 I’m currently working as a software and web developer intern
+- 🔭 I’m currently looking for internships in software engineering and data science
 - 👯 Looking to collaborate on multiple cool open source projects
 [![@dhruvkud13's Holopin board](https://holopin.me/dhruvkud13)](https://holopin.io/@dhruvkud13) -->
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hi there, I'm @dhruvkud13!<br>🌱 I'm currently pursuing my B.Tech degree in Information Technology<br>👯 Looking to collaborate on multiple cool open source projects<br>🤝 I’m looking to get into the world of open source!<br>🔭 I’m currently working as a software and web developer intern<br>🌱 I’m currently learning data science<br>👨🏻‍🏫 I'm involved in teaching assistance at a data science institute<br>⚡ Fun fact- I love sports!!
+👋 Hi there, I'm @dhruvkud13!<br>🌱 I'm currently pursuing my Masters in Computer Science at the University of Southern California<br>👯 Looking to collaborate on multiple cool open source projects<br>🤝 I’m looking to get into the world of open source!<br>🔭 I’m currently looking for internships in software engineering and data science<br> ⚡ Fun fact- I love sports!!
 
 
 ## 🌐 Socials:
